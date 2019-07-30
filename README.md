@@ -1,6 +1,7 @@
-# nonlinearclustering
-Nonlinear Dimensionality Reduction for Clustering
 
+# Nonlinear Dimensionality Reduction for Clustering
+
+## Introduction
 Clusters defined in low dimensional manifolds can have highly nonlinear
 structure, which can cause linear dimensionality reduction methods to fail. A
 number of established nonlinear dimensionality reduction methods use a graph
@@ -19,5 +20,5 @@ The provided scripts can be used to compare experimentaly "i-DivClu" with "Kerne
 and "Spectral Clustering" in a number of real world dataset with respect to clustering efficiency and
 computational cost.
 
-# License
+## License
 This project is licensed under the BSD-3-Clause License - see the LICENSE file for details
