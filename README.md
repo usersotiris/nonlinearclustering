@@ -20,3 +20,5 @@ and "Spectral Clustering" in a number of real world dataset with respect to clus
 computational cost.
 
 
+LICENSE
+This project is licensed under the BSD-3-Clause License - see the LICENSE.md file for details
