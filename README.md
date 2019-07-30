@@ -19,5 +19,5 @@ The provided scripts can be used to compare experimentaly "i-DivClu" with "Kerne
 and "Spectral Clustering" in a number of real world dataset with respect to clustering efficiency and
 computational cost.
 
-
+# License
 This project is licensed under the BSD-3-Clause License - see the LICENSE file for details
