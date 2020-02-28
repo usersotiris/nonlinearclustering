@@ -16,8 +16,11 @@ representation is sufficient for constructing cluster boundaries that split the 
 without breaking any of the clusters. Repeating the procedure recursively provides a
 theoretically justified and efficient non-linear clustering technique.
 
-The provided scripts can be used to compare experimentaly "i-DivClu" with "Kernel k-Means"
-and "Spectral Clustering" in a number of real world dataset with respect to clustering efficiency and
+We provide two variations of this methodology ,"i-DivClu-M" for maximum margin clustering and "i-DivClu-D"
+for density based clustering.
+
+The provided scripts can be used to compare experimentaly "i-DivClu" with popular methods also considered
+able to handle non linearity in a number of real world dataset with respect to clustering efficiency and
 computational cost.
 
 ## License
