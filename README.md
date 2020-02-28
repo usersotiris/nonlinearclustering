@@ -22,6 +22,8 @@ for density based clustering.
 The provided scripts can be used to compare experimentaly "i-DivClu" with popular methods also considered
 able to handle non linearity in a number of real world dataset with respect to clustering efficiency and
 computational cost.
+![Image of]
+(https://github.com/usersotiris/nonlinearclustering/blob/master/myexampleplot4.pdf)
 
 ## License
 This project is licensed under the BSD-3-Clause License - see the LICENSE file for details
