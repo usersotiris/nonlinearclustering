@@ -23,7 +23,8 @@ The provided scripts can be used to compare experimentaly "i-DivClu" with popula
 able to handle non linearity in a number of real world dataset with respect to clustering efficiency and
 computational cost.
 
-![describe](https://github.com/usersotiris/nonlinearclustering/blob/master/output-1.png)
+![](https://github.com/usersotiris/nonlinearclustering/blob/master/output-1.png)
+*image_caption*
 
 ## License
 This project is licensed under the BSD-3-Clause License - see the LICENSE file for details
