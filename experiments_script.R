@@ -33,10 +33,11 @@ clusters <- igraph::clusters
 
 dataname <- list.files("./RdsData/")
 
-dname <- dataname[seq(2, length(dataname), by = 2)]
-cname <- dataname[seq(1, length(dataname), by = 2)]
+cl_file_indx <- which(grepl("class",dataname))
 
-# # for the bio data=====================
+dname <- dataname[-cl_file_indx]
+cname <- dataname[cl_file_indx]
+
 # =====================================
 
 # -----------------------------------------
