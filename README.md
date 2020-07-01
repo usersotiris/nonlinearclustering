@@ -23,7 +23,7 @@ The provided scripts can be used to compare experimentaly "i-DivClu" with popula
 able to handle non linearity in a number of real world dataset with respect to clustering efficiency and
 computational cost.
 
-```{r}
+```r
 # source the file including all required functions for i-DivClu
 source("i-divclu.R")
 ```
