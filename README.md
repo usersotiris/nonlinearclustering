@@ -23,6 +23,20 @@ The provided scripts can be used to compare experimentaly "i-DivClu" with popula
 able to handle non linearity in a number of real world dataset with respect to clustering efficiency and
 computational cost.
 
+
+![](https://github.com/usersotiris/nonlinearclustering/blob/master/output-1.png)
+*Two steps of the hierarchical procedure using "i-DivClu-D"*
+
+## Reference
+If you use this code please reference the corresponding recently published article. 
+
+Sotiris Tasoulis, Nicos G. Pavlidis, Teemu Roos, Nonlinear dimensionality reduction for clustering, Pattern Recognition, Volume 107, 2020, 107508, ISSN 0031-3203,
+https://doi.org/10.1016/j.patcog.2020.107508.
+
+## License
+This project is licensed under the BSD-3-Clause License - see the LICENSE file for details.
+
+
 ```r
 # Example Script
 
@@ -85,8 +99,3 @@ plot(dd$V1, dd$V2, col = as.factor(res$Clusterids))
 ```
 
 
-![](https://github.com/usersotiris/nonlinearclustering/blob/master/output-1.png)
-*Two steps of the hierarchical procedure using "i-DivClu-D"*
-
-## License
-This project is licensed under the BSD-3-Clause License - see the LICENSE file for details
