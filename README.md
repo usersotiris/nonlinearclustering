@@ -23,6 +23,11 @@ The provided scripts can be used to compare experimentaly "i-DivClu" with popula
 able to handle non linearity in a number of real world dataset with respect to clustering efficiency and
 computational cost.
 
+```{r cars}
+summary(cars)
+```
+
+
 ![](https://github.com/usersotiris/nonlinearclustering/blob/master/output-1.png)
 *Two steps of the hierarchical procedure using "i-DivClu-D"*
 
