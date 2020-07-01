@@ -33,10 +33,12 @@ If you use this code please reference the corresponding recently published artic
 Sotiris Tasoulis, Nicos G. Pavlidis, Teemu Roos, Nonlinear dimensionality reduction for clustering, Pattern Recognition, Volume 107, 2020, 107508, ISSN 0031-3203,
 https://doi.org/10.1016/j.patcog.2020.107508.
 
+[download bibtex](https://github.com/usersotiris/nonlinearclustering/blob/master/bibtex.txt)
+
 ## License
 This project is licensed under the BSD-3-Clause License - see the LICENSE file for details.
 
-
+## Example script
 ```r
 # Example Script
 
