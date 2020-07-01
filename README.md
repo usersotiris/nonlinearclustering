@@ -2,13 +2,9 @@
 # Nonlinear Dimensionality Reduction for Clustering
 
 ## Introduction
+
 Clusters defined in low dimensional manifolds can have highly nonlinear
-structure, which can cause linear dimensionality reduction methods to fail. A
-number of established nonlinear dimensionality reduction methods use a graph
-representation of the data to define the transformation (embedding) to a low
-dimensional space. We employ the Isometric mapping (Isomap) methodology
-to investigate conditions under which the separability of clusters defined in
-manifolds is guaranteed in the low dimensional representation.
+structure, which can cause linear dimensionality reduction methods to fail. We introduce an approach to divisive hierarchical clustering that is capable of identifying clusters in nonlinear manifolds. This approach uses the isometric mapping (Isomap) to recursively embed (subsets of) the data in one dimension, and then performs a binary partition designed to avoid the splitting of clusters.
 
 The proposed algorithm uses the acronym "i-DivClu" (Isometric mapping for Divisive Clustering).
 It is based on the idea that a suitably defined one-dimensional
@@ -18,11 +14,6 @@ theoretically justified and efficient non-linear clustering technique.
 
 We provide two variations of this methodology ,"i-DivClu-M" for maximum margin clustering and "i-DivClu-D"
 for density based clustering.
-
-The provided scripts can be used to compare experimentaly "i-DivClu" with popular methods also considered
-able to handle non linearity in a number of real world dataset with respect to clustering efficiency and
-computational cost.
-
 
 ![](https://github.com/usersotiris/nonlinearclustering/blob/master/output-2.png)
 *Two steps of the hierarchical procedure using "i-DivClu-D"*
