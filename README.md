@@ -24,7 +24,7 @@ able to handle non linearity in a number of real world dataset with respect to c
 computational cost.
 
 
-![](https://github.com/usersotiris/nonlinearclustering/blob/master/output-1.png)
+![](https://github.com/usersotiris/nonlinearclustering/blob/master/output-2.png)
 *Two steps of the hierarchical procedure using "i-DivClu-D"*
 
 ## Reference
