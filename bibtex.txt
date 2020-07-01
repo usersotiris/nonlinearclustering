@@ -1,0 +1,13 @@
+@article{TASOULIS2020107508,
+title = "Nonlinear dimensionality reduction for clustering",
+journal = "Pattern Recognition",
+volume = "107",
+pages = "107508",
+year = "2020",
+issn = "0031-3203",
+doi = "https://doi.org/10.1016/j.patcog.2020.107508",
+url = "http://www.sciencedirect.com/science/article/pii/S0031320320303113",
+author = "Sotiris Tasoulis and Nicos G. Pavlidis and Teemu Roos",
+keywords = "Nonlinearity, Dimensionality reduction, Divisive hierarchical clustering, Manifold clustering",
+abstract = "We introduce an approach to divisive hierarchical clustering that is capable of identifying clusters in nonlinear manifolds. This approach uses the isometric mapping (Isomap) to recursively embed (subsets of) the data in one dimension, and then performs a binary partition designed to avoid the splitting of clusters. We provide a theoretical analysis of the conditions under which contiguous and high-density clusters in the original space are guaranteed to be separable in the one-dimensional embedding. To the best of our knowledge there is little prior work that studies this problem. Extensive experiments on simulated and real data sets show that hierarchical divisive clustering algorithms derived from this approach are effective."
+}
